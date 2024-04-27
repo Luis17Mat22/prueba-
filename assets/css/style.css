@@ -1,0 +1,14 @@
+
+#Contacto form label {
+    font-weight: 700;
+    color: #373a3c;
+  }
+
+  body{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    letter-spacing: 0px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
