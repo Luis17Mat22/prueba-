@@ -1,14 +1,37 @@
+body {
+  background-color: black;
+  margin: 0;
+  color: white;
+  font-family: Arial, sans-serif;
+}
 
-#Contacto form label {
-    font-weight: 700;
-    color: #373a3c;
-  }
+.blanco {
+  color: white;
+}
 
-  body{
-    display: flex;
-    flex-direction: column;
-    color: white;
-    letter-spacing: 0px;
-    background: #000000 0% 0% no-repeat padding-box;
-    opacity: 1;
+.navbar-light .navbar-nav .nav-link .navbar-brand {
+  color: #fff;
+  /* White color */
+}
+
+.rectanguloCeleste {
+  background-color: #0DCAF0;
+}
+
+.card {
+  background-color: #0DCAF0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.color {
+
+  background-color: #0DCAF0;
+}
+
+footer {
+  background-color: #0DCAF0;
+  color: white;
 }
